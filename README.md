@@ -1,2 +1,2 @@
-# Hire
+# HirePilot
 AI Resume Screening System
